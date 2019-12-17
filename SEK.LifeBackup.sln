@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEK.LifeBackup.Service", "SEK.LifeBackup.Service\SEK.LifeBackup.Service.csproj", "{4F21AFE1-13E4-4010-B14E-58BD05330BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEK.LifeBackup.Core", "SEK.LifeBackup.Core\SEK.LifeBackup.Core.csproj", "{E5D42001-2988-4315-BC23-2D2FB35BEF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEK.LifeBackup.Infrastructure", "SEK.LifeBackup.Infrastructure\SEK.LifeBackup.Infrastructure.csproj", "{02F6B58C-3C04-4D61-A783-76DA35D1F492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F21AFE1-13E4-4010-B14E-58BD05330BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F21AFE1-13E4-4010-B14E-58BD05330BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F21AFE1-13E4-4010-B14E-58BD05330BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F21AFE1-13E4-4010-B14E-58BD05330BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D42001-2988-4315-BC23-2D2FB35BEF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D42001-2988-4315-BC23-2D2FB35BEF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D42001-2988-4315-BC23-2D2FB35BEF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D42001-2988-4315-BC23-2D2FB35BEF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F6B58C-3C04-4D61-A783-76DA35D1F492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F6B58C-3C04-4D61-A783-76DA35D1F492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F6B58C-3C04-4D61-A783-76DA35D1F492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F6B58C-3C04-4D61-A783-76DA35D1F492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F188B82D-9CCC-438F-8E07-416D812C6EEA}
+	EndGlobalSection
+EndGlobal
